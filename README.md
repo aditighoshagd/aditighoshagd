@@ -1,24 +1,192 @@
-# 💫 About Me:
-💻 I'm currently working on CodeForge & Loom (Spring Boot Microservices)<br>🤝 I'm looking to collaborate on Backend, Java & Open Source Projects<br>🌱 I'm currently learning System Design, Kubernetes & Distributed Systems<br>💬 Ask me about Java, Spring Boot, Microservices, Kafka, DSA<br>⚡ Fun fact: Knight on LeetCode (Top 3.59% globally) and I enjoy building production-grade backend systems.
+<h1 align="center">Hi 👋, I'm Aditi Ghosh</h1>
 
+<h3 align="center">
+Full Stack Java Developer • Spring Boot • Microservices • Kubernetes • AI
+</h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aditighoshagd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditighoshagd@gmail.com) 
+<p align="center">
+MCA Student at NIT Jamshedpur passionate about building scalable backend systems,
+cloud-native applications and AI-powered developer tools.
+</p>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-FFFFFF?&style=for-the-badge&logo=opentelemetry&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aditighoshagd&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=aditighoshagd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aditighoshagd&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aditighoshagd&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aditighoshagd&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=aditighoshagd&label=Profile%20Views&color=0e75b6&style=flat"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=aditighoshagd&icon=9&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 💫 About Me
+
+- 💻 Currently building **CodeForge** and **Loom**, scalable Spring Boot Microservices.
+- 🚀 Passionate about **Backend Development, Distributed Systems, Cloud Computing & AI.**
+- 🤝 Looking to collaborate on **Java, Spring Boot, Kubernetes & Open Source Projects.**
+- 🌱 Currently learning **System Design, Spring AI, Kubernetes & Distributed Systems.**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Kubernetes, PostgreSQL, Redis and DSA.**
+- 🏆 Knight on LeetCode (Top 3.59% Globally) with a peak contest rating of **1940**.
+- ⚡ I enjoy building production-grade backend systems.
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/aditighoshagd">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:aditighoshagd@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/aditighoshagd">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/u/aditii_ghosh/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/aditighze5v?tab=activity">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://codeforces.com/profile/aditighosh">
+<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/aditighosh">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,docker,kubernetes,postgres,redis,kafka,git,github,githubactions,gcp,linux,maven,vscode&perline=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenFeign-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 💻 CodeForge
+
+AI-powered cloud IDE built using **Spring Boot, Spring Cloud, Spring AI, Kafka, Redis, PostgreSQL, Docker, Kubernetes and React.**
+
+🔗 https://github.com/aditighoshagd
+
+---
+
+## 📰 Loom
+
+Newsletter Publishing Platform built using **Spring Cloud Microservices, Kafka, Kubernetes, JWT Authentication and Google Kubernetes Engine (GKE).**
+
+🔗 https://github.com/aditighoshagd
+
+---
+
+## 🤖 Clyra
+
+AI Browser Assistant powered by **Spring Boot, Gemini API, Chrome Extension APIs and WebClient.**
+
+🔗 https://github.com/aditighoshagd
+
+---
+
+# 🏆 Coding Profiles
+
+🥇 **LeetCode**
+
+- Knight (Top **3.59%**)
+- Peak Rating **1940**
+- 278+ Problems Solved
+
+🟢 **GeeksforGeeks**
+
+- Coding Score **1046**
+- 293+ Problems Solved
+- Longest Streak **131 Days**
+
+🟡 **HackerRank**
+
+- 4⭐ Problem Solving
+
+🔵 **Codeforces**
+
+- 800+ Rating
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=aditighoshagd&theme=tokyonight&show_icons=true&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=aditighoshagd&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditighoshagd&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=aditighoshagd&theme=tokyonight&no-frame=true&margin-w=8)
+
+---
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=aditighoshagd&theme=tokyo-night&hide_border=true)
+
+---
+
+## 🔝 Top Contributed Repo
+
+![](https://github-contributor-stats.vercel.app/api?username=aditighoshagd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake.svg"/>
+
+</picture>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile.
+
+Let's build something amazing together 🚀
+
+</p>
