@@ -1,31 +1,29 @@
 <h1 align="center">Hi 👋, I'm Aditi Ghosh</h1>
 
 <h3 align="center">
-Full Stack Developer • Spring Boot • Microservices • Kubernetes • Generative AI
+Full Stack Java Developer • Spring Boot • Microservices • Kubernetes • AI
 </h3>
 
 <p align="center">
-MCA Student at NIT Jamshedpur, building scalable backend systems, cloud-native
-platforms on GKE, and AI-powered developer tools with Spring AI, Kafka, and Kubernetes.
+MCA Student at NIT Jamshedpur passionate about building scalable backend systems,
+cloud-native applications and AI-powered developer tools.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=6a0dad&style=flat"/>
-<img src="https://img.shields.io/badge/MCA-NIT%20Jamshedpur-blueviolet?style=flat"/>
-<img src="https://img.shields.io/badge/CGPA-7.40%2F10-brightgreen?style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=aditighoshagd&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 💫 About Me
 
-- 💻 Currently building **CodeForge**, a self-correcting AI coding agent with sandboxed Kubernetes live previews.
-- 🚀 Passionate about **Backend Engineering, Event-Driven Systems, Cloud-Native Architecture & Generative AI.**
-- 🤝 Looking to collaborate on **Java, Spring Boot, Spring AI, Kafka & Kubernetes projects.**
-- 🌱 Currently exploring **Spring Cloud Gateway, Saga orchestration & agentic AI tool-calling.**
-- 💬 Ask me about **Java, Spring Boot, Spring Cloud, Kafka, Kubernetes, Redis, PostgreSQL, and DSA.**
-- 🏆 LeetCode Knight (Top 3.59% globally), peak contest rating **1940**, 278+ DSA problems solved.
-- ⚡ I enjoy shipping production-grade systems deployed on real infrastructure (GKE, CI/CD), not just prototypes.
+- 💻 Currently building **CodeForge** and **Loom**, scalable Spring Boot Microservices.
+- 🚀 Passionate about **Backend Development, Distributed Systems, Cloud Computing & AI.**
+- 🤝 Looking to collaborate on **Java, Spring Boot, Kubernetes & Open Source Projects.**
+- 🌱 Currently learning **System Design, Spring AI, Kubernetes & Distributed Systems.**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Kubernetes, PostgreSQL, Redis and DSA.**
+- 🏆 Knight on LeetCode (Top 3.59% Globally) with a peak contest rating of **1940**.
+- ⚡ I enjoy building production-grade backend systems.
 
 ---
 
@@ -33,7 +31,7 @@ platforms on GKE, and AI-powered developer tools with Spring AI, Kafka, and Kube
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/aditighoshagd">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -41,27 +39,23 @@ platforms on GKE, and AI-powered developer tools with Spring AI, Kafka, and Kube
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/aditighoshagd">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/YOUR_LEETCODE">
+<a href="https://leetcode.com/u/aditii_ghosh/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://geeksforgeeks.org/profile/YOUR_GFG">
+<a href="https://www.geeksforgeeks.org/profile/aditighze5v?tab=activity">
 <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://codeforces.com/profile/YOUR_CODEFORCES">
+<a href="https://codeforces.com/profile/aditighosh">
 <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge"/>
 </a>
 
-<a href="https://www.hackerrank.com/YOUR_HACKERRANK">
+<a href="https://www.hackerrank.com/profile/aditighosh">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
@@ -72,127 +66,127 @@ platforms on GKE, and AI-powered developer tools with Spring AI, Kafka, and Kube
 # 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css,spring,react,docker,kubernetes,postgres,redis,kafka,git,github,githubactions,gcp,linux&perline=8"/>
+
+<img src="https://skillicons.dev/icons?i=java,spring,react,docker,kubernetes,postgres,redis,kafka,git,github,githubactions,gcp,linux,maven,vscode&perline=8"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spring%20Cloud%20Gateway-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/OpenFeign-blue?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-<img src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Fabric8-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Kubernetes%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/Stripe%20API-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/Eureka-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Hibernate-brown?style=for-the-badge&logo=hibernate"/>
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman"/>
+
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 💻 AI-Powered Web App Builder (CodeForge)
-Cloud-native, agentic coding platform built with **Spring Boot, Spring Cloud, Spring AI, Kafka, Redis, Docker, Kubernetes, Fabric8, and React.**
+## 💻 CodeForge
 
-- Architected a 6-service Spring Cloud microservices platform with a JWT-secured WebFlux gateway, deployed to GKE via GitHub Actions CI/CD
-- Built a closed-loop coding agent using Spring AI tool-calling that reads workspace files via OpenFeign and self-corrects from live runtime/compile errors
-- Orchestrated sandboxed Kubernetes runner pods via Fabric8 for isolated live previews, with a Redis-backed reverse proxy and WebSocket-powered Vite HMR
-- Added Kafka Saga orchestration and Stripe billing for production-grade reliability
+AI-powered cloud IDE built using **Spring Boot, Spring Cloud, Spring AI, Kafka, Redis, PostgreSQL, Docker, Kubernetes and React.**
 
-🔗 GitHub | Live Demo
+🔗 https://github.com/aditighoshagd
 
 ---
 
-## 📰 Loom – Newsletter Publishing Platform
-7-service microservices platform built with **Java, Spring Boot, Spring Cloud Gateway, Kafka, Kubernetes, GKE, Eureka, OpenFeign, and JWT.**
+## 📰 Loom
 
-- Designed and deployed a 7-service platform on GKE behind a GCE-backed Ingress and API Gateway
-- Implemented JWT authentication at the API Gateway using Spring Cloud Gateway filters, propagating verified identity downstream via custom headers
-- Built an event-driven notification pipeline with Kafka, including a 2-node Kafka cluster for production-grade reliability
-- Authored Kubernetes manifests (Deployments, StatefulSets, health probes) for the full platform
+Newsletter Publishing Platform built using **Spring Cloud Microservices, Kafka, Kubernetes, JWT Authentication and Google Kubernetes Engine (GKE).**
 
-🔗 GitHub | Live Demo
+🔗 https://github.com/aditighoshagd
 
 ---
 
-## 🌐 AI Browser Assistant (Clyra)
-Chrome extension built with **Chrome Extension APIs, Spring Boot, WebClient, and the Gemini API.**
+## 🤖 Clyra
 
-- Built a Chrome extension with a side-panel UI using Chrome's scripting/sidePanel APIs to capture live text selections for instant AI processing
-- Developed a Spring Boot backend integrating the Gemini API with reactive WebClient and response caching to cut latency and API costs
-- Added image upload support, letting users send screenshots to the AI backend for text extraction and multimodal analysis
+AI Browser Assistant powered by **Spring Boot, Gemini API, Chrome Extension APIs and WebClient.**
 
-🔗 GitHub
-
----
-
-# 🎓 Education
-
-**National Institute of Technology (NIT) Jamshedpur** — *Expected Jun 2027*
-Master of Computer Applications (MCA), CGPA: 7.40/10
-
-**Kalinga University, Raipur** — *Jul 2023*
-Bachelor of Computer Applications (BCA), CGPA: 7.19/10
+🔗 https://github.com/aditighoshagd
 
 ---
 
 # 🏆 Coding Profiles
 
 🥇 **LeetCode**
-- Knight level (Top 3.59% globally)
-- Peak contest rating **1940**, 278+ problems solved
+
+- Knight (Top **3.59%**)
+- Peak Rating **1940**
+- 278+ Problems Solved
 
 🟢 **GeeksforGeeks**
-- Coding Score **1,046**
-- 293+ problems solved, longest streak **131 days**
+
+- Coding Score **1046**
+- 293+ Problems Solved
+- Longest Streak **131 Days**
+
+🟡 **HackerRank**
+
+- 4⭐ Problem Solving
 
 🔵 **Codeforces**
-- Rating **800+**
 
-🟣 **HackerRank**
-- 4-star Problem Solving badge
-
----
-
-# 🧑‍💼 Leadership
-
-**Operations Executive, E-Cell** — NIT Jamshedpur *(Sep 2024 – Present)*
-- Planned and executed end-to-end E-Cell events, managing logistics, coordination, and on-ground operations
-- Collaborated with cross-functional design, marketing, and outreach teams to ensure smooth event delivery
+- 800+ Rating
 
 ---
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=aditighoshagd&theme=tokyonight&show_icons=true&hide_border=true)
 
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+![](https://streak-stats.demolab.com?user=aditighoshagd&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aditighoshagd&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=8)
+![](https://github-profile-trophy.vercel.app/?username=aditighoshagd&theme=tokyonight&no-frame=true&margin-w=8)
 
 ---
 
 ## 📈 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=aditighoshagd&theme=tokyo-night&hide_border=true)
 
 ---
 
-## 💬 Random Dev Quote
+## 🔝 Top Contributed Repo
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://github-contributor-stats.vercel.app/api?username=aditighoshagd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/aditighoshagd/aditighoshagd/output/github-snake.svg"/>
+
+</picture>
 
 ---
 
 <p align="center">
+
 ⭐ Thanks for visiting my profile.
+
 Let's build something amazing together 🚀
+
 </p>
