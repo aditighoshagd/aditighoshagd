@@ -97,7 +97,7 @@ cloud-native applications and AI-powered developer tools.
 
 AI-powered cloud IDE built using **Spring Boot, Spring Cloud, Spring AI, Kafka, Redis, PostgreSQL, Docker, Kubernetes and React.**
 
-🔗 https://github.com/aditighoshagd
+🔗 https://github.com/aditighoshagd/Distributed-CodeForge
 
 ---
 
@@ -105,7 +105,7 @@ AI-powered cloud IDE built using **Spring Boot, Spring Cloud, Spring AI, Kafka, 
 
 Newsletter Publishing Platform built using **Spring Cloud Microservices, Kafka, Kubernetes, JWT Authentication and Google Kubernetes Engine (GKE).**
 
-🔗 https://github.com/aditighoshagd
+🔗 https://github.com/aditighoshagd/Loom
 
 ---
 
@@ -113,7 +113,7 @@ Newsletter Publishing Platform built using **Spring Cloud Microservices, Kafka, 
 
 AI Browser Assistant powered by **Spring Boot, Gemini API, Chrome Extension APIs and WebClient.**
 
-🔗 https://github.com/aditighoshagd
+🔗 https://github.com/aditighoshagd/Clyra
 
 ---
 
