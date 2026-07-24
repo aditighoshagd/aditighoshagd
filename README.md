@@ -123,12 +123,12 @@ AI Browser Assistant powered by **Spring Boot, Gemini API, Chrome Extension APIs
 
 - Knight (Top **3.59%**)
 - Peak Rating **1940**
-- 278+ Problems Solved
+- 300+ Problems Solved
 
 🟢 **GeeksforGeeks**
 
 - Coding Score **1046**
-- 293+ Problems Solved
+- 300+ Problems Solved
 - Longest Streak **131 Days**
 
 🟡 **HackerRank**
